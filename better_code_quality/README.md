@@ -1,5 +1,3 @@
-Slide in http://slides.com/alexfor/deck-1-1#/
-
 ### Speaker environment
 
 - node 4.4.2 (4.2 or above should be ok)
@@ -7,5 +5,13 @@ Slide in http://slides.com/alexfor/deck-1-1#/
 ### Before you run the code
 
 ```sh
-./install.sh
+cd aftership-es6-sharing
+npm install -g grunt-cli
+npm install
+```
+
+### Try ESLint
+
+```sh
+grunt lint
 ```
