@@ -6,12 +6,11 @@
 
 ```sh
 cd aftership-es6-sharing
-npm install -g grunt-cli
-npm install
+./install.sh
 ```
 
 ### Try ESLint
 
 ```sh
-grunt lint
+eslint {name of the file}.js
 ```

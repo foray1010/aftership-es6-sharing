@@ -6,8 +6,7 @@
 
 ```sh
 cd aftership-es6-sharing
-npm install -g babel-cli webpack@2.1.0-beta.4
-npm install
+./install.sh
 ```
 
 Compile the code by `webpack`:

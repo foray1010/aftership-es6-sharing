@@ -6,8 +6,7 @@
 
 ```sh
 cd aftership-es6-sharing
-npm install -g babel-cli
-npm install
+./install.sh
 ```
 
 Run the code by `babel-node`:
